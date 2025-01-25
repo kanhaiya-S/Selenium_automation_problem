@@ -15,3 +15,6 @@ This project is a Selenium-based automation suite for testing the functionalitie
 
 <!-- run -->
 python main1.py
+
+working video
+https://youtu.be/a14jDLssRy4?si=8bpuPcGYviy-_uDn
