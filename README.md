@@ -3,8 +3,6 @@
 ## Overview
 This project is a Selenium-based automation suite for testing the functionalities of the Sauce Demo website. It includes tests for login validation, adding items to the cart, removing items from the cart, and the checkout workflow.
 
-## Project Structure
-
 ## Prerequisites
 - Python
 - Selenium
